@@ -92,7 +92,7 @@ export function CountriesScreen() {
       <View style={styles.header}>
         <Text style={styles.title}>Browse by Country</Text>
         <Text style={styles.subtitle}>
-          {countries.length} Arab regions & pan-Arab stations
+          {countries.length} countries & worldwide stations
         </Text>
       </View>
 
