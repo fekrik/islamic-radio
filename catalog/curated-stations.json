@@ -1,0 +1,193 @@
+[
+  {
+    "id": "curated-sa-quran-radio-makkah",
+    "name": "Holy Quran Radio – Saudi Arabia إذاعة القرآن الكريم السعودية",
+    "countryCode": "SA",
+    "category": "quran",
+    "streamUrl": "https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8",
+    "logoUrl": null,
+    "tags": ["quran", "saudi", "makkah"],
+    "featured": true
+  },
+  {
+    "id": "curated-eg-quran-radio-cairo",
+    "name": "Holy Quran Radio – Cairo إذاعة القرآن الكريم من القاهرة",
+    "countryCode": "EG",
+    "category": "quran",
+    "streamUrl": "https://radio.xecod.com/station/quran-cairo",
+    "logoUrl": null,
+    "tags": ["quran", "egypt", "cairo"],
+    "featured": true
+  },
+  {
+    "id": "curated-ae-quran-radio-sharjah",
+    "name": "Sharjah Holy Quran Radio إذاعة الشارقة للقرآن الكريم",
+    "countryCode": "AE",
+    "category": "quran",
+    "streamUrl": "https://l3.itworkscdn.net/smcquranlive/quranradiolive/icecast.audio",
+    "logoUrl": null,
+    "tags": ["quran", "uae", "sharjah"],
+    "featured": true
+  },
+  {
+    "id": "curated-jo-quran-radio",
+    "name": "Jordan Holy Quran Radio إذاعة القرآن الكريم الأردنية",
+    "countryCode": "JO",
+    "category": "quran",
+    "streamUrl": "https://jrtv-live.ercdn.net/jrradio/quranradio.m3u8",
+    "logoUrl": null,
+    "tags": ["quran", "jordan"],
+    "featured": true
+  },
+  {
+    "id": "curated-tn-zitouna-fm",
+    "name": "Zitouna FM إذاعة الزيتونة",
+    "countryCode": "TN",
+    "category": "quran",
+    "streamUrl": "https://radio.radiotunisienne.tn/radiozaitouna",
+    "logoUrl": null,
+    "tags": ["quran", "tunisia", "zitouna"],
+    "featured": true
+  },
+  {
+    "id": "curated-dz-coran",
+    "name": "Algeria Holy Quran Radio إذاعة القرآن الكريم الجزائر",
+    "countryCode": "DZ",
+    "category": "quran",
+    "streamUrl": "https://webradio1.tda.dz:8001/Coran_64K.mp3",
+    "logoUrl": null,
+    "tags": ["quran", "algeria", "coran"],
+    "featured": false
+  },
+  {
+    "id": "curated-ye-quran-sanaa",
+    "name": "Holy Quran Radio – Sana'a إذاعة القرآن الكريم صنعاء",
+    "countryCode": "YE",
+    "category": "quran",
+    "streamUrl": "https://halo.streamerr.co/listen/quran_kareem/radio.mp3",
+    "logoUrl": null,
+    "tags": ["quran", "yemen"],
+    "featured": false
+  },
+  {
+    "id": "curated-ye-noor-al-eman",
+    "name": "Noor Al-Eman نور الإيمان",
+    "countryCode": "YE",
+    "category": "quran",
+    "streamUrl": "https://edge.mixlr.com/channel/boaht",
+    "logoUrl": null,
+    "tags": ["quran", "yemen"],
+    "featured": false
+  },
+  {
+    "id": "curated-ly-almunir-tripoli",
+    "name": "Almunir Radio – Tripoli إذاعة المنير",
+    "countryCode": "LY",
+    "category": "quran",
+    "streamUrl": "https://live.munir.ly/proxy/almunirtip/stream",
+    "fallbackUrls": ["https://live.munir.ly/proxy/almunir/stream"],
+    "logoUrl": null,
+    "tags": ["quran", "libya"],
+    "featured": false
+  },
+  {
+    "id": "curated-kw-sudais",
+    "name": "Abdulrahman Al-Sudais عبدالرحمن السديس",
+    "countryCode": "INTL",
+    "category": "reciters",
+    "streamUrl": "https://radio.mp3islam.com/listen/sudais/radio.mp3",
+    "logoUrl": null,
+    "tags": ["reciters", "sudais", "makkah"],
+    "featured": true
+  },
+  {
+    "id": "curated-kw-shuraim",
+    "name": "Saud Al-Shuraim سعود الشريم",
+    "countryCode": "INTL",
+    "category": "reciters",
+    "streamUrl": "https://radio.mp3islam.com/listen/alshuraim/radio.mp3",
+    "logoUrl": null,
+    "tags": ["reciters", "shuraim", "makkah"],
+    "featured": true
+  },
+  {
+    "id": "curated-kw-abdulbasit",
+    "name": "Abdulbasit Abdulsamad عبدالباسط عبدالصمد",
+    "countryCode": "INTL",
+    "category": "reciters",
+    "streamUrl": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+    "logoUrl": null,
+    "tags": ["reciters", "abdulbasit"],
+    "featured": true
+  },
+  {
+    "id": "curated-kw-minshawi",
+    "name": "Muhammad Siddiq Al-Minshawi محمد صديق المنشاوي",
+    "countryCode": "INTL",
+    "category": "reciters",
+    "streamUrl": "https://radio.mp3islam.com/listen/minshawi/radio.mp3",
+    "logoUrl": null,
+    "tags": ["reciters", "minshawi"],
+    "featured": true
+  },
+  {
+    "id": "curated-kw-yasser-aldosari",
+    "name": "Yasser Al-Dosari ياسر الدوسري",
+    "countryCode": "INTL",
+    "category": "reciters",
+    "streamUrl": "https://radio.mp3islam.com/listen/yaser/radio.mp3",
+    "logoUrl": null,
+    "tags": ["reciters", "dosari"],
+    "featured": true
+  },
+  {
+    "id": "curated-mishary-alafasi",
+    "name": "Mishary Rashid Alafasy مشاري راشد العفاسي",
+    "countryCode": "INTL",
+    "category": "reciters",
+    "streamUrl": "https://qurango.net/radio/mishary_alafasi",
+    "logoUrl": null,
+    "tags": ["reciters", "alafasy"],
+    "featured": true
+  },
+  {
+    "id": "curated-hussary",
+    "name": "Mahmoud Khalil Al-Hussary محمود خليل الحصري",
+    "countryCode": "INTL",
+    "category": "reciters",
+    "streamUrl": "https://qurango.net/radio/mahmoud_khalil_alhussary",
+    "logoUrl": null,
+    "tags": ["reciters", "hussary"],
+    "featured": true
+  },
+  {
+    "id": "curated-tarateel",
+    "name": "Tarateel – Short Recitations تراتيل قصيرة متميزة",
+    "countryCode": "INTL",
+    "category": "reciters",
+    "streamUrl": "https://qurango.net/radio/tarateel",
+    "logoUrl": null,
+    "tags": ["reciters", "tarateel"],
+    "featured": false
+  },
+  {
+    "id": "curated-athkar-sabah",
+    "name": "Morning Adhkar أذكار الصباح",
+    "countryCode": "INTL",
+    "category": "lectures",
+    "streamUrl": "https://qurango.net/radio/athkar_sabah",
+    "logoUrl": null,
+    "tags": ["lectures", "adhkar"],
+    "featured": false
+  },
+  {
+    "id": "curated-seerah",
+    "name": "In the Shade of the Seerah في ظلال السيرة النبوية",
+    "countryCode": "INTL",
+    "category": "lectures",
+    "streamUrl": "https://qurango.net/radio/fi_zilal_alsiyra",
+    "logoUrl": null,
+    "tags": ["lectures", "seerah"],
+    "featured": false
+  }
+]
