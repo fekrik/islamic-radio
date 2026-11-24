@@ -1,12 +1,12 @@
 # Islamic Radio — Station Catalog Verification Report
 
-- **Generated:** 2026-11-23T17:42:23.004Z
+- **Generated:** 2026-11-24T17:14:48.566Z
 - **Mode:** verify-only
 - **Curated flagship stations live:** 18
-- **Total candidates evaluated:** 163
-- **Passed pre-filter (HTTPS + compatible codec + Islamic content):** 163
+- **Total candidates evaluated:** 160
+- **Passed pre-filter (HTTPS + compatible codec + Islamic content):** 160
 - **Live probe passed:** 159
-- **Live probe failed:** 4
+- **Live probe failed:** 1
 - **Final catalog count:** 159
 
 ## Breakdown by Category
@@ -49,45 +49,42 @@
 | Reason | Count |
 | :--- | ---: |
 | `curated:http-403` | 1 |
-| `http-403` | 1 |
-| `http-404` | 1 |
-| `network-error` | 1 |
 
 ## Curated & Top Verified Stations
 | Name | Country | Category | Codec | Latency |
 | :--- | :--- | :--- | :--- | ---: |
-| Holy Quran Radio – Saudi Arabia إذاعة القرآن الكريم السعودية | 🇸🇦 Saudi Arabia | `quran` | HLS | 421ms |
-| Sharjah Holy Quran Radio إذاعة الشارقة للقرآن الكريم | 🇦🇪 United Arab Emirates | `quran` | AAC+ | 594ms |
-| Jordan Holy Quran Radio إذاعة القرآن الكريم الأردنية | 🇯🇴 Jordan | `quran` | HLS | 948ms |
-| Zitouna FM إذاعة الزيتونة | 🇹🇳 Tunisia | `quran` | MP3 | 939ms |
-| Algeria Holy Quran Radio إذاعة القرآن الكريم الجزائر | 🇩🇿 Algeria | `quran` | MP3 | 1360ms |
-| Holy Quran Radio – Sana'a إذاعة القرآن الكريم صنعاء | 🇾🇪 Yemen | `quran` | MP3 | 939ms |
-| Noor Al-Eman نور الإيمان | 🇾🇪 Yemen | `quran` | MP3 | 1034ms |
-| Almunir Radio – Tripoli إذاعة المنير | 🇱🇾 Libya | `quran` | MP3 | 1657ms |
-| Abdulrahman Al-Sudais عبدالرحمن السديس | 🌍 Worldwide | `reciters` | AAC+ | 1981ms |
-| Saud Al-Shuraim سعود الشريم | 🌍 Worldwide | `reciters` | AAC+ | 1972ms |
-| Abdulbasit Abdulsamad عبدالباسط عبدالصمد | 🌍 Worldwide | `reciters` | AAC | 1679ms |
-| Muhammad Siddiq Al-Minshawi محمد صديق المنشاوي | 🌍 Worldwide | `reciters` | AAC | 1578ms |
-| Yasser Al-Dosari ياسر الدوسري | 🌍 Worldwide | `reciters` | AAC+ | 1973ms |
-| Mishary Rashid Alafasy مشاري راشد العفاسي | 🌍 Worldwide | `reciters` | MP3 | 976ms |
-| Mahmoud Khalil Al-Hussary محمود خليل الحصري | 🌍 Worldwide | `reciters` | MP3 | 1024ms |
-| Tarateel – Short Recitations تراتيل قصيرة متميزة | 🌍 Worldwide | `reciters` | MP3 | 986ms |
-| Morning Adhkar أذكار الصباح | 🌍 Worldwide | `lectures` | MP3 | 995ms |
-| In the Shade of the Seerah في ظلال السيرة النبوية | 🌍 Worldwide | `lectures` | MP3 | 970ms |
-| Holy Quran Radio – Cairo إذاعة القرآن الكريم من القاهرة | 🇪🇬 Egypt | `quran` | MP3 | 548ms |
-| Radio Ibrahim Al-Akdar إبراهيم الأخضر | 🌍 Worldwide | `reciters` | MP3 | 253ms |
-| Radio Shaik Abu Bakr Al Shatri شيخ أبو بكر الشاطري | 🌍 Worldwide | `reciters` | MP3 | 244ms |
-| Radio Ahmad Al-Ajmy أحمد العجمي | 🌍 Worldwide | `reciters` | MP3 | 257ms |
-| Radio Idrees Abkr إدريس أبكر | 🌍 Worldwide | `reciters` | MP3 | 222ms |
-| Radio Khaled Al-Qahtani خالد القحطاني | 🌍 Worldwide | `reciters` | MP3 | 225ms |
-| Radio Saad Al-Ghamdi سعد الغامدي | 🌍 Worldwide | `reciters` | MP3 | 563ms |
-| Radio Saud Al-Shuraim سعود الشريم | 🌍 Worldwide | `reciters` | MP3 | 348ms |
-| Radio Slaah Bukhatir صلاح بو خاطر | 🌍 Worldwide | `reciters` | MP3 | 326ms |
-| Radio Abdulbasit Abdulsamad عبدالباسط عبدالصمد (Mujawwad) | 🌍 Worldwide | `reciters` | MP3 | 341ms |
-| Radio Abdulbasit Abdulsamad عبدالباسط عبدالصمد (Warsh) | 🌍 Worldwide | `reciters` | MP3 | 337ms |
-| Radio Abdulbasit Abdulsamad عبدالباسط عبدالصمد | 🌍 Worldwide | `reciters` | MP3 | 323ms |
-| Radio Abdulrahman Alsudaes عبدالرحمن السديس | 🌍 Worldwide | `reciters` | MP3 | 343ms |
-| Radio Abdullah Basfer عبدالله بصفر | 🌍 Worldwide | `reciters` | MP3 | 327ms |
-| Radio Abdullah Al-Johany عبدالله عواد الجهني | 🌍 Worldwide | `reciters` | MP3 | 336ms |
-| Radio Ali Alhuthaifi علي بن عبدالرحمن الحذيفي | 🌍 Worldwide | `reciters` | MP3 | 349ms |
-| Radio Ali Alhuthaifi علي الحذيفي (Qalun) | 🌍 Worldwide | `reciters` | MP3 | 346ms |
+| Holy Quran Radio – Saudi Arabia إذاعة القرآن الكريم السعودية | 🇸🇦 Saudi Arabia | `quran` | HLS | 839ms |
+| Sharjah Holy Quran Radio إذاعة الشارقة للقرآن الكريم | 🇦🇪 United Arab Emirates | `quran` | AAC+ | 638ms |
+| Jordan Holy Quran Radio إذاعة القرآن الكريم الأردنية | 🇯🇴 Jordan | `quran` | HLS | 690ms |
+| Zitouna FM إذاعة الزيتونة | 🇹🇳 Tunisia | `quran` | MP3 | 907ms |
+| Algeria Holy Quran Radio إذاعة القرآن الكريم الجزائر | 🇩🇿 Algeria | `quran` | MP3 | 960ms |
+| Holy Quran Radio – Sana'a إذاعة القرآن الكريم صنعاء | 🇾🇪 Yemen | `quran` | MP3 | 910ms |
+| Noor Al-Eman نور الإيمان | 🇾🇪 Yemen | `quran` | MP3 | 958ms |
+| Almunir Radio – Tripoli إذاعة المنير | 🇱🇾 Libya | `quran` | MP3 | 1461ms |
+| Abdulrahman Al-Sudais عبدالرحمن السديس | 🌍 Worldwide | `reciters` | AAC+ | 1394ms |
+| Saud Al-Shuraim سعود الشريم | 🌍 Worldwide | `reciters` | AAC+ | 1304ms |
+| Abdulbasit Abdulsamad عبدالباسط عبدالصمد | 🌍 Worldwide | `reciters` | AAC | 1106ms |
+| Muhammad Siddiq Al-Minshawi محمد صديق المنشاوي | 🌍 Worldwide | `reciters` | AAC | 1128ms |
+| Yasser Al-Dosari ياسر الدوسري | 🌍 Worldwide | `reciters` | AAC+ | 1397ms |
+| Mishary Rashid Alafasy مشاري راشد العفاسي | 🌍 Worldwide | `reciters` | MP3 | 895ms |
+| Mahmoud Khalil Al-Hussary محمود خليل الحصري | 🌍 Worldwide | `reciters` | MP3 | 891ms |
+| Tarateel – Short Recitations تراتيل قصيرة متميزة | 🌍 Worldwide | `reciters` | MP3 | 898ms |
+| Morning Adhkar أذكار الصباح | 🌍 Worldwide | `lectures` | MP3 | 903ms |
+| In the Shade of the Seerah في ظلال السيرة النبوية | 🌍 Worldwide | `lectures` | MP3 | 892ms |
+| Holy Quran Radio – Cairo إذاعة القرآن الكريم من القاهرة | 🇪🇬 Egypt | `quran` | MP3 | 493ms |
+| Radio Ibrahim Al-Akdar إبراهيم الأخضر | 🌍 Worldwide | `reciters` | MP3 | 244ms |
+| Radio Shaik Abu Bakr Al Shatri شيخ أبو بكر الشاطري | 🌍 Worldwide | `reciters` | MP3 | 221ms |
+| Radio Ahmad Al-Ajmy أحمد العجمي | 🌍 Worldwide | `reciters` | MP3 | 228ms |
+| Radio Idrees Abkr إدريس أبكر | 🌍 Worldwide | `reciters` | MP3 | 243ms |
+| Radio Khaled Al-Qahtani خالد القحطاني | 🌍 Worldwide | `reciters` | MP3 | 234ms |
+| Radio Saad Al-Ghamdi سعد الغامدي | 🌍 Worldwide | `reciters` | MP3 | 556ms |
+| Radio Saud Al-Shuraim سعود الشريم | 🌍 Worldwide | `reciters` | MP3 | 357ms |
+| Radio Slaah Bukhatir صلاح بو خاطر | 🌍 Worldwide | `reciters` | MP3 | 419ms |
+| Radio Abdulbasit Abdulsamad عبدالباسط عبدالصمد (Mujawwad) | 🌍 Worldwide | `reciters` | MP3 | 348ms |
+| Radio Abdulbasit Abdulsamad عبدالباسط عبدالصمد (Warsh) | 🌍 Worldwide | `reciters` | MP3 | 338ms |
+| Radio Abdulbasit Abdulsamad عبدالباسط عبدالصمد | 🌍 Worldwide | `reciters` | MP3 | 329ms |
+| Radio Abdulrahman Alsudaes عبدالرحمن السديس | 🌍 Worldwide | `reciters` | MP3 | 377ms |
+| Radio Abdullah Basfer عبدالله بصفر | 🌍 Worldwide | `reciters` | MP3 | 352ms |
+| Radio Abdullah Al-Johany عبدالله عواد الجهني | 🌍 Worldwide | `reciters` | MP3 | 332ms |
+| Radio Ali Alhuthaifi علي بن عبدالرحمن الحذيفي | 🌍 Worldwide | `reciters` | MP3 | 340ms |
+| Radio Ali Alhuthaifi علي الحذيفي (Qalun) | 🌍 Worldwide | `reciters` | MP3 | 341ms |
