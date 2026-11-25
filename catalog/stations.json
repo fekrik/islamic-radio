@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T17:14:48.563Z",
+  "updatedAt": "2026-11-25T16:57:59.709Z",
   "stationCount": 159,
   "categories": [
     {
@@ -48,7 +48,7 @@
         "saudi",
         "makkah"
       ],
-      "latencyMs": 839,
+      "latencyMs": 570,
       "featured": true
     },
     {
@@ -69,7 +69,7 @@
         "uae",
         "sharjah"
       ],
-      "latencyMs": 638,
+      "latencyMs": 674,
       "featured": true
     },
     {
@@ -89,7 +89,7 @@
         "quran",
         "jordan"
       ],
-      "latencyMs": 690,
+      "latencyMs": 819,
       "featured": true
     },
     {
@@ -110,7 +110,7 @@
         "tunisia",
         "zitouna"
       ],
-      "latencyMs": 907,
+      "latencyMs": 969,
       "featured": true
     },
     {
@@ -131,7 +131,7 @@
         "algeria",
         "coran"
       ],
-      "latencyMs": 960,
+      "latencyMs": 1168,
       "featured": false
     },
     {
@@ -151,7 +151,7 @@
         "quran",
         "yemen"
       ],
-      "latencyMs": 910,
+      "latencyMs": 996,
       "featured": false
     },
     {
@@ -171,7 +171,7 @@
         "quran",
         "yemen"
       ],
-      "latencyMs": 958,
+      "latencyMs": 1037,
       "featured": false
     },
     {
@@ -191,7 +191,7 @@
         "quran",
         "libya"
       ],
-      "latencyMs": 1461,
+      "latencyMs": 1565,
       "featured": false,
       "fallbackUrls": [
         "https://live.munir.ly/proxy/almunir/stream"
@@ -215,7 +215,7 @@
         "sudais",
         "makkah"
       ],
-      "latencyMs": 1394,
+      "latencyMs": 1654,
       "featured": true
     },
     {
@@ -236,7 +236,7 @@
         "shuraim",
         "makkah"
       ],
-      "latencyMs": 1304,
+      "latencyMs": 1422,
       "featured": true
     },
     {
@@ -256,7 +256,7 @@
         "reciters",
         "abdulbasit"
       ],
-      "latencyMs": 1106,
+      "latencyMs": 1481,
       "featured": true
     },
     {
@@ -276,7 +276,7 @@
         "reciters",
         "minshawi"
       ],
-      "latencyMs": 1128,
+      "latencyMs": 1001,
       "featured": true
     },
     {
@@ -296,7 +296,7 @@
         "reciters",
         "dosari"
       ],
-      "latencyMs": 1397,
+      "latencyMs": 1673,
       "featured": true
     },
     {
@@ -316,7 +316,7 @@
         "reciters",
         "alafasy"
       ],
-      "latencyMs": 895,
+      "latencyMs": 1280,
       "featured": true
     },
     {
@@ -336,7 +336,7 @@
         "reciters",
         "hussary"
       ],
-      "latencyMs": 891,
+      "latencyMs": 1472,
       "featured": true
     },
     {
@@ -356,7 +356,7 @@
         "reciters",
         "tarateel"
       ],
-      "latencyMs": 898,
+      "latencyMs": 1267,
       "featured": false
     },
     {
@@ -376,7 +376,7 @@
         "lectures",
         "adhkar"
       ],
-      "latencyMs": 903,
+      "latencyMs": 1184,
       "featured": false
     },
     {
@@ -396,7 +396,7 @@
         "lectures",
         "seerah"
       ],
-      "latencyMs": 892,
+      "latencyMs": 1524,
       "featured": false
     },
     {
@@ -417,7 +417,7 @@
         "egypt",
         "cairo"
       ],
-      "latencyMs": 493,
+      "latencyMs": 636,
       "featured": true
     },
     {
@@ -438,7 +438,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 244
+      "latencyMs": 381
     },
     {
       "id": "mp3quran-2",
@@ -458,7 +458,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 221
+      "latencyMs": 306
     },
     {
       "id": "mp3quran-3",
@@ -478,7 +478,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 228
+      "latencyMs": 273
     },
     {
       "id": "mp3quran-8",
@@ -498,7 +498,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 243
+      "latencyMs": 276
     },
     {
       "id": "mp3quran-14",
@@ -518,7 +518,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 234,
+      "latencyMs": 350,
       "fallbackUrls": [
         "https://backup.qurango.net/radio/khaled_alqahtani"
       ]
@@ -541,7 +541,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 556
+      "latencyMs": 438
     },
     {
       "id": "mp3quran-18",
@@ -584,7 +584,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 419
+      "latencyMs": 381
     },
     {
       "id": "mp3quran-30",
@@ -604,7 +604,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 348,
+      "latencyMs": 363,
       "fallbackUrls": [
         "https://backup.qurango.net/radio/abdulbasit_abdulsamad_mojawwad"
       ]
@@ -627,7 +627,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 338
+      "latencyMs": 366
     },
     {
       "id": "mp3quran-32",
@@ -647,7 +647,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 329
+      "latencyMs": 368
     },
     {
       "id": "mp3quran-33",
@@ -667,7 +667,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 377,
+      "latencyMs": 371,
       "fallbackUrls": [
         "https://backup.qurango.net/radio/abdulrahman_alsudaes"
       ]
@@ -690,7 +690,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 352,
+      "latencyMs": 387,
       "fallbackUrls": [
         "https://backup.qurango.net/radio/abdullah_basfer"
       ]
@@ -713,7 +713,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 332
+      "latencyMs": 403
     },
     {
       "id": "mp3quran-46",
@@ -733,7 +733,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 340,
+      "latencyMs": 372,
       "fallbackUrls": [
         "https://backup.qurango.net/radio/ali_alhuthaifi"
       ]
@@ -756,7 +756,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 341
+      "latencyMs": 380
     },
     {
       "id": "mp3quran-48",
@@ -776,7 +776,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 343
+      "latencyMs": 367
     },
     {
       "id": "mp3quran-52",
@@ -796,7 +796,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 337
+      "latencyMs": 357
     },
     {
       "id": "mp3quran-53",
@@ -816,7 +816,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 356
+      "latencyMs": 382
     },
     {
       "id": "mp3quran-54",
@@ -836,7 +836,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 299
+      "latencyMs": 336
     },
     {
       "id": "mp3quran-56",
@@ -856,7 +856,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 281,
+      "latencyMs": 330,
       "fallbackUrls": [
         "https://backup.qurango.net/radio/hani_arrifai"
       ]
@@ -879,7 +879,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 277
+      "latencyMs": 383
     },
     {
       "id": "mp3quran-59",
@@ -899,7 +899,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 310
+      "latencyMs": 281
     },
     {
       "id": "mp3quran-60",
@@ -919,7 +919,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 221,
+      "latencyMs": 299,
       "fallbackUrls": [
         "https://backup.qurango.net/radio/yasser_almazroyee"
       ]
@@ -942,7 +942,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 245
+      "latencyMs": 439
     },
     {
       "id": "mp3quran-64",
@@ -962,7 +962,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 219,
+      "latencyMs": 327,
       "fallbackUrls": [
         "https://backup.qurango.net/radio/mohammad_altablaway"
       ]
@@ -985,7 +985,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 236
+      "latencyMs": 323
     },
     {
       "id": "mp3quran-68",
@@ -1005,7 +1005,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 221,
+      "latencyMs": 326,
       "fallbackUrls": [
         "https://backup.qurango.net/radio/mohammed_jibreel"
       ]
@@ -1028,7 +1028,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 283
+      "latencyMs": 358
     },
     {
       "id": "mp3quran-70",
@@ -1048,7 +1048,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 294
+      "latencyMs": 327
     },
     {
       "id": "mp3quran-75",
@@ -1068,7 +1068,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 220
+      "latencyMs": 333
     },
     {
       "id": "mp3quran-77",
@@ -1088,7 +1088,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 224
+      "latencyMs": 275
     },
     {
       "id": "mp3quran-78",
@@ -1108,7 +1108,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 219
+      "latencyMs": 312
     },
     {
       "id": "mp3quran-80",
@@ -1128,7 +1128,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 227
+      "latencyMs": 274
     },
     {
       "id": "mp3quran-84",
@@ -1148,7 +1148,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 225,
+      "latencyMs": 262,
       "fallbackUrls": [
         "https://backup.qurango.net/radio/maher_shakhashero"
       ]
@@ -1171,7 +1171,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 238
+      "latencyMs": 258
     },
     {
       "id": "mp3quran-91",
@@ -1191,7 +1191,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 218
+      "latencyMs": 289
     },
     {
       "id": "mp3quran-117",
@@ -1211,7 +1211,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 225
+      "latencyMs": 297
     },
     {
       "id": "mp3quran-261",
@@ -1231,7 +1231,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 220
+      "latencyMs": 265
     },
     {
       "id": "mp3quran-21116",
@@ -1251,7 +1251,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 218
+      "latencyMs": 302
     },
     {
       "id": "mp3quran-109039",
@@ -1271,7 +1271,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 219
+      "latencyMs": 261
     },
     {
       "id": "mp3quran-109046",
@@ -1291,7 +1291,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 226,
+      "latencyMs": 286,
       "fallbackUrls": [
         "https://backup.qurango.net/radio/translation_quran_english_basit"
       ]
@@ -1314,7 +1314,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 224
+      "latencyMs": 278
     },
     {
       "id": "mp3quran-109056",
@@ -1334,7 +1334,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 225
+      "latencyMs": 261
     },
     {
       "id": "mp3quran-113",
@@ -1354,7 +1354,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 224
+      "latencyMs": 263
     },
     {
       "id": "mp3quran-114",
@@ -1374,7 +1374,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 220
+      "latencyMs": 289
     },
     {
       "id": "mp3quran-116",
@@ -1394,7 +1394,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 217,
+      "latencyMs": 288,
       "fallbackUrls": [
         "https://backup.qurango.net/radio/tafseer"
       ]
@@ -1417,7 +1417,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 244
+      "latencyMs": 272
     },
     {
       "id": "mp3quran-10904",
@@ -1437,7 +1437,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 229
+      "latencyMs": 274
     },
     {
       "id": "mp3quran-10907",
@@ -1457,7 +1457,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 223
+      "latencyMs": 309
     },
     {
       "id": "mp3quran-21115",
@@ -1477,7 +1477,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 223,
+      "latencyMs": 297,
       "fallbackUrls": [
         "https://backup.qurango.net/radio/almukhtasar_fi_alsiyra"
       ]
@@ -1500,7 +1500,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 223
+      "latencyMs": 284
     },
     {
       "id": "mp3quran-109069",
@@ -1520,7 +1520,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 219
+      "latencyMs": 267
     },
     {
       "id": "mp3quran-109076",
@@ -1540,7 +1540,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 223,
+      "latencyMs": 266,
       "fallbackUrls": [
         "https://backup.qurango.net/radio/gareeb-quran"
       ]
@@ -1563,7 +1563,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 220
+      "latencyMs": 291
     },
     {
       "id": "mp3quran-5",
@@ -1583,7 +1583,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 215
+      "latencyMs": 319
     },
     {
       "id": "mp3quran-6",
@@ -1603,7 +1603,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 222,
+      "latencyMs": 292,
       "fallbackUrls": [
         "https://backup.qurango.net/radio/ahmad_nauina"
       ]
@@ -1626,7 +1626,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 221
+      "latencyMs": 326
     },
     {
       "id": "mp3quran-9",
@@ -1646,7 +1646,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 224
+      "latencyMs": 312
     },
     {
       "id": "mp3quran-10",
@@ -1666,7 +1666,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 216
+      "latencyMs": 277
     },
     {
       "id": "mp3quran-11",
@@ -1686,7 +1686,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 222
+      "latencyMs": 258
     },
     {
       "id": "mp3quran-12",
@@ -1706,7 +1706,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 224
+      "latencyMs": 296
     },
     {
       "id": "mp3quran-13",
@@ -1726,7 +1726,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 216
+      "latencyMs": 298
     },
     {
       "id": "mp3quran-15",
@@ -1746,7 +1746,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 231
+      "latencyMs": 258
     },
     {
       "id": "mp3quran-16",
@@ -1766,7 +1766,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 216
+      "latencyMs": 289
     },
     {
       "id": "mp3quran-19",
@@ -1786,7 +1786,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 218
+      "latencyMs": 273
     },
     {
       "id": "mp3quran-20",
@@ -1806,7 +1806,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 223
+      "latencyMs": 339
     },
     {
       "id": "mp3quran-21",
@@ -1826,7 +1826,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 217
+      "latencyMs": 291
     },
     {
       "id": "mp3quran-22",
@@ -1846,7 +1846,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 219
+      "latencyMs": 321
     },
     {
       "id": "mp3quran-23",
@@ -1866,7 +1866,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 224
+      "latencyMs": 366
     },
     {
       "id": "mp3quran-24",
@@ -1886,7 +1886,7 @@
         "quran",
         "mp3quran"
       ],
-      "latencyMs": 222,
+      "latencyMs": 269,
       "fallbackUrls": [
         "https://backup.qurango.net/radio/salah_albudair"
       ]
@@ -1912,7 +1912,7 @@
         "islam",
         "shia"
       ],
-      "latencyMs": 655
+      "latencyMs": 889
     },
     {
       "id": "448ba0a5-0c40-4f53-adc6-9d7f8b6e5f6a",
@@ -1933,7 +1933,7 @@
         "islamic",
         "sunni"
       ],
-      "latencyMs": 828
+      "latencyMs": 1717
     },
     {
       "id": "894f73d0-647d-461b-845c-95d8e14a1e32",
@@ -1955,7 +1955,7 @@
         "islam",
         "islamic"
       ],
-      "latencyMs": 692
+      "latencyMs": 879
     },
     {
       "id": "ffcdc7e1-089e-4dfb-b11f-c2dcb26ef923",
@@ -1973,7 +1973,7 @@
       "tags": [
         "quran"
       ],
-      "latencyMs": 1372
+      "latencyMs": 1224
     },
     {
       "id": "b90c0167-61a7-4719-ba42-4993eaff4858",
@@ -1991,7 +1991,7 @@
       "tags": [
         "quran"
       ],
-      "latencyMs": 1433
+      "latencyMs": 1286
     },
     {
       "id": "2cc238bc-2466-4e27-a5ad-af7e02991220",
@@ -2009,7 +2009,7 @@
       "tags": [
         "quran"
       ],
-      "latencyMs": 691
+      "latencyMs": 1134
     },
     {
       "id": "a182e5ba-a840-40bf-9e51-01bef3ad9e24",
@@ -2030,7 +2030,7 @@
         "mp3",
         "news"
       ],
-      "latencyMs": 495
+      "latencyMs": 438
     },
     {
       "id": "f11a1158-1ee0-4772-bcb0-110522be1e18",
@@ -2053,7 +2053,7 @@
         "kingdom",
         "nation"
       ],
-      "latencyMs": 1053
+      "latencyMs": 1026
     },
     {
       "id": "e441e30a-a8bf-47c4-b294-9335d231cfe5",
@@ -2072,7 +2072,7 @@
         "quran",
         "radio"
       ],
-      "latencyMs": 1505
+      "latencyMs": 1464
     },
     {
       "id": "0ec5f129-e885-49e0-85f2-b7bb55b135e2",
@@ -2092,7 +2092,7 @@
         "dakwah",
         "islam"
       ],
-      "latencyMs": 1544
+      "latencyMs": 1435
     },
     {
       "id": "b568ab8e-9d51-471d-8708-04deade2463d",
@@ -2111,7 +2111,7 @@
         "quran",
         "life guide"
       ],
-      "latencyMs": 1095
+      "latencyMs": 999
     },
     {
       "id": "e3ecb332-be77-4641-9b52-39cb4e79e042",
@@ -2134,7 +2134,7 @@
         "paris",
         "radio maghreb"
       ],
-      "latencyMs": 1987
+      "latencyMs": 1469
     },
     {
       "id": "b7c46425-7fd3-4176-8e57-e3916ace3fd2",
@@ -2152,7 +2152,7 @@
       "tags": [
         "quran"
       ],
-      "latencyMs": 1732
+      "latencyMs": 1282
     },
     {
       "id": "dfbfc1dd-cbed-44a3-a954-635459801c84",
@@ -2170,7 +2170,7 @@
       "tags": [
         "quran"
       ],
-      "latencyMs": 1203
+      "latencyMs": 1069
     },
     {
       "id": "3e1a2014-d426-4f74-b237-8c109054911e",
@@ -2190,7 +2190,7 @@
         "bahrain",
         "islam"
       ],
-      "latencyMs": 1560
+      "latencyMs": 1489
     },
     {
       "id": "f6bd573d-3fc2-490b-8cd5-7c5f8c840e78",
@@ -2213,7 +2213,7 @@
         "religion",
         "religious"
       ],
-      "latencyMs": 1850
+      "latencyMs": 1944
     },
     {
       "id": "7ea58b1d-e502-4e03-abb1-65b2408bab2d",
@@ -2233,7 +2233,7 @@
         "islamic",
         "religion"
       ],
-      "latencyMs": 1173
+      "latencyMs": 1214
     },
     {
       "id": "0e42abac-460f-4ef3-b742-818d584f6762",
@@ -2255,7 +2255,7 @@
         "mosque",
         "religion"
       ],
-      "latencyMs": 1549
+      "latencyMs": 1593
     },
     {
       "id": "186ff22a-2697-4ecc-9371-5b03d9ec61e3",
@@ -2274,7 +2274,7 @@
         "quran",
         "islamic"
       ],
-      "latencyMs": 1026
+      "latencyMs": 914
     },
     {
       "id": "7e2023bb-e40a-4111-8ac2-1c8527ae977a",
@@ -2295,7 +2295,7 @@
         "islamic",
         "religious"
       ],
-      "latencyMs": 1159
+      "latencyMs": 1220
     },
     {
       "id": "6705a426-e0da-4f75-9348-38643c3ac8f1",
@@ -2318,7 +2318,7 @@
         "library",
         "religious"
       ],
-      "latencyMs": 308
+      "latencyMs": 608
     },
     {
       "id": "73e650e1-310c-4eac-b671-7e0b776d44f3",
@@ -2341,7 +2341,7 @@
         "prayer",
         "prayers"
       ],
-      "latencyMs": 1328
+      "latencyMs": 1010
     },
     {
       "id": "46d54920-eece-4b59-b6f9-9ef271c41371",
@@ -2360,7 +2360,7 @@
         "quran",
         "islamic"
       ],
-      "latencyMs": 920
+      "latencyMs": 674
     },
     {
       "id": "daa09c4e-3e34-45db-87bb-c3b8571f17a1",
@@ -2379,7 +2379,7 @@
         "quran",
         "islamic"
       ],
-      "latencyMs": 1363
+      "latencyMs": 1042
     },
     {
       "id": "7266feab-84b7-446b-9286-8fbed00de6f4",
@@ -2401,7 +2401,7 @@
         "islamic",
         "religion"
       ],
-      "latencyMs": 1615
+      "latencyMs": 1347
     },
     {
       "id": "e7a348f2-cee7-4e37-adc0-6d91b57a5554",
@@ -2423,7 +2423,7 @@
         "islamic",
         "religion"
       ],
-      "latencyMs": 1779
+      "latencyMs": 1286
     },
     {
       "id": "aad245cf-6e7a-4b99-a215-c6f21c6aea4c",
@@ -2445,7 +2445,7 @@
         "persian",
         "religion"
       ],
-      "latencyMs": 1478
+      "latencyMs": 1342
     },
     {
       "id": "479e43d7-902b-4240-92a2-1bd3a29f4799",
@@ -2467,7 +2467,7 @@
         "islamic",
         "religion"
       ],
-      "latencyMs": 1461
+      "latencyMs": 1323
     },
     {
       "id": "e82181dd-b7dd-4ba1-8c1b-2c7c8c715602",
@@ -2486,7 +2486,7 @@
         "quran",
         "islamic"
       ],
-      "latencyMs": 2012
+      "latencyMs": 2110
     },
     {
       "id": "d3fbfdc1-597b-4d72-85a2-f5514ed229ff",
@@ -2508,7 +2508,7 @@
         "islamic",
         "religion"
       ],
-      "latencyMs": 1294
+      "latencyMs": 1342
     },
     {
       "id": "81dd7d70-e9a9-486c-856e-a44f8eaeef95",
@@ -2529,7 +2529,7 @@
         "quranic recitation",
         "tajweed"
       ],
-      "latencyMs": 559
+      "latencyMs": 569
     },
     {
       "id": "f6525431-74d1-4357-a5ec-af5bc4ce4e10",
@@ -2552,7 +2552,7 @@
         "quran",
         "religion"
       ],
-      "latencyMs": 1402
+      "latencyMs": 1334
     },
     {
       "id": "5f349a7d-94f4-45c3-8380-1b69eac98591",
@@ -2575,7 +2575,7 @@
         "quran",
         "religion"
       ],
-      "latencyMs": 1362
+      "latencyMs": 1324
     },
     {
       "id": "d008faac-137b-448f-82b0-7d458012f7aa",
@@ -2598,7 +2598,7 @@
         "islamic",
         "quran"
       ],
-      "latencyMs": 1321
+      "latencyMs": 1389
     },
     {
       "id": "fd3f1605-fbaa-44a3-b4e1-9129ae6fede6",
@@ -2621,7 +2621,7 @@
         "quran",
         "religion"
       ],
-      "latencyMs": 1313
+      "latencyMs": 1382
     },
     {
       "id": "19b673e5-2aa3-4236-9f79-be9e61dfb517",
@@ -2641,7 +2641,7 @@
         "hadith",
         "islamic"
       ],
-      "latencyMs": 1031
+      "latencyMs": 1769
     },
     {
       "id": "aae5e83c-a051-4595-9321-50996f3b6b45",
@@ -2664,7 +2664,7 @@
         "islamic",
         "quran"
       ],
-      "latencyMs": 1357
+      "latencyMs": 1538
     },
     {
       "id": "ec51ddfb-6026-418d-8d4c-66760e8bdef5",
@@ -2687,7 +2687,7 @@
         "islamic",
         "quran"
       ],
-      "latencyMs": 1330
+      "latencyMs": 1437
     },
     {
       "id": "48976256-27d8-4364-81fe-68757078dce2",
@@ -2706,7 +2706,7 @@
         "nasheed",
         "islam music"
       ],
-      "latencyMs": 362
+      "latencyMs": 1085
     },
     {
       "id": "1020f3df-3507-476a-85ca-152e03cb75ff",
@@ -2728,7 +2728,7 @@
         "muslim",
         "turk"
       ],
-      "latencyMs": 1209
+      "latencyMs": 1806
     },
     {
       "id": "d213de0e-86fa-4b09-99d3-fe36bf66993b",
@@ -2746,7 +2746,7 @@
       "tags": [
         "nasheed"
       ],
-      "latencyMs": 935
+      "latencyMs": 792
     },
     {
       "id": "c16f41f7-668c-409f-aeda-d1d1bb3f1761",
@@ -2768,7 +2768,7 @@
         "islamic",
         "konya"
       ],
-      "latencyMs": 1532
+      "latencyMs": 1332
     },
     {
       "id": "b70ed344-6abc-4418-826b-5e8c502fc506",
@@ -2787,7 +2787,7 @@
         "nasheed",
         "islamic، classical"
       ],
-      "latencyMs": 1669
+      "latencyMs": 1769
     },
     {
       "id": "ac818ec6-d595-44f1-a8e1-6ffc9ef308b0",
@@ -2806,7 +2806,7 @@
         "nasheed",
         "islamic، classical"
       ],
-      "latencyMs": 1556
+      "latencyMs": 1664
     },
     {
       "id": "8bbeb6fd-33be-46fe-9750-cafdb05e8b70",
@@ -2827,7 +2827,7 @@
         "islamic music",
         "religious"
       ],
-      "latencyMs": 1740
+      "latencyMs": 1535
     },
     {
       "id": "62978ad7-a686-46cb-b45a-d81102e21d85",
@@ -2846,7 +2846,7 @@
         "nasheed",
         "islamic، classical"
       ],
-      "latencyMs": 1891
+      "latencyMs": 1506
     },
     {
       "id": "caff715e-7b52-436d-be35-80e39906b2dd",
@@ -2865,7 +2865,7 @@
         "nasheed",
         "islamic، classical"
       ],
-      "latencyMs": 1721
+      "latencyMs": 1834
     },
     {
       "id": "869d6802-36b4-487f-900a-3b26cd9e5ee1",
@@ -2884,7 +2884,7 @@
         "nasheed",
         "islamic، classical"
       ],
-      "latencyMs": 1522
+      "latencyMs": 1781
     },
     {
       "id": "103e4ac1-09ef-4d89-afe2-5f3ae92576ed",
@@ -2903,7 +2903,7 @@
         "nasheed",
         "islamic، classical"
       ],
-      "latencyMs": 1542
+      "latencyMs": 1810
     },
     {
       "id": "d34ca676-1bc3-4578-80e0-2a99f41e3dda",
@@ -2922,7 +2922,7 @@
         "nasheed",
         "islamic، classical"
       ],
-      "latencyMs": 1474
+      "latencyMs": 1480
     },
     {
       "id": "4e88f2b3-1096-49de-8a34-423ef4aac5e4",
@@ -2941,7 +2941,7 @@
         "nasheed",
         "islamic"
       ],
-      "latencyMs": 1940
+      "latencyMs": 2237
     },
     {
       "id": "bafb06c5-1278-444f-81a4-b045dce5e80f",
@@ -2960,7 +2960,7 @@
         "world",
         "talk & speech"
       ],
-      "latencyMs": 1807
+      "latencyMs": 1832
     },
     {
       "id": "a224255e-160e-4ade-8ef0-586e436f78b0",
@@ -2978,7 +2978,7 @@
       "tags": [
         "world"
       ],
-      "latencyMs": 1220
+      "latencyMs": 1402
     },
     {
       "id": "d15e2dfa-6d7b-45db-9a88-30332940f01d",
@@ -2998,7 +2998,7 @@
         "islam",
         "talk"
       ],
-      "latencyMs": 963
+      "latencyMs": 1109
     },
     {
       "id": "81ded047-7d82-42b3-b86c-0eff2380e92e",
@@ -3016,7 +3016,7 @@
       "tags": [
         "world"
       ],
-      "latencyMs": 1748
+      "latencyMs": 1779
     },
     {
       "id": "31a1c268-95a1-4cc3-95fe-f004b7f52208",
@@ -3035,7 +3035,7 @@
         "world",
         "islamic"
       ],
-      "latencyMs": 1897
+      "latencyMs": 2207
     },
     {
       "id": "fbf0bb38-272f-438a-b8f3-d325b2232df8",
@@ -3057,7 +3057,7 @@
         "islamic",
         "journalism"
       ],
-      "latencyMs": 2488
+      "latencyMs": 2816
     },
     {
       "id": "1093d2fd-d68a-41b9-9f0e-8040ec6c0254",
@@ -3077,7 +3077,7 @@
         "islamic",
         "religious"
       ],
-      "latencyMs": 2078
+      "latencyMs": 2041
     },
     {
       "id": "e22b42d8-c4cb-44a8-b0e7-7ff32f159a48",
@@ -3100,7 +3100,7 @@
         "religious",
         "talk"
       ],
-      "latencyMs": 2007
+      "latencyMs": 1738
     },
     {
       "id": "65da3e39-454e-4280-9c85-9f518ec51b71",
@@ -3123,7 +3123,7 @@
         "religious",
         "talk"
       ],
-      "latencyMs": 1312
+      "latencyMs": 1262
     },
     {
       "id": "d8dc1854-2b4b-42c0-8a5c-f040a96786d2",
@@ -3144,7 +3144,7 @@
         "religious",
         "talk"
       ],
-      "latencyMs": 1923
+      "latencyMs": 2017
     },
     {
       "id": "e089d23a-1832-421d-95ad-9c59af2f3181",
@@ -3165,7 +3165,7 @@
         "islamic",
         "religious"
       ],
-      "latencyMs": 1360
+      "latencyMs": 1221
     },
     {
       "id": "954568ae-9047-4f0e-826b-c6b7996d57aa",
@@ -3184,7 +3184,7 @@
         "world",
         "islamic"
       ],
-      "latencyMs": 1784
+      "latencyMs": 1836
     },
     {
       "id": "1bc2eb42-9a7d-4a8b-8683-3ebb94e43db8",
@@ -3204,7 +3204,7 @@
         "islamic",
         "religious"
       ],
-      "latencyMs": 734
+      "latencyMs": 820
     },
     {
       "id": "7eee0d0c-b7dd-4174-a5c9-008d5e867652",
@@ -3225,7 +3225,7 @@
         "islam",
         "islamic religion"
       ],
-      "latencyMs": 2100
+      "latencyMs": 2132
     },
     {
       "id": "2475eaa5-53b8-47c1-b30c-1a2c6433e81e",
@@ -3248,7 +3248,7 @@
         "quran",
         "religious"
       ],
-      "latencyMs": 283
+      "latencyMs": 624
     },
     {
       "id": "75ead783-da0e-42b8-8933-44332c390181",
@@ -3267,7 +3267,7 @@
         "quran",
         "music"
       ],
-      "latencyMs": 1920
+      "latencyMs": 2309
     },
     {
       "id": "43fd050f-0fdf-45d0-8e25-f6d230ad5fcb",
@@ -3286,7 +3286,7 @@
         "quran",
         "islamic"
       ],
-      "latencyMs": 616
+      "latencyMs": 528
     },
     {
       "id": "ece971f6-279b-4e6a-ad34-372d1c083099",
@@ -3306,7 +3306,7 @@
         "islamic",
         "religious"
       ],
-      "latencyMs": 1228
+      "latencyMs": 1417
     }
   ]
 }
